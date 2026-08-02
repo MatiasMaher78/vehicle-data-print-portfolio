@@ -1,0 +1,19 @@
+# --- Framework ---
+fastapi
+uvicorn[standard]
+python-decouple
+email-validator
+
+# --- Supabase & DB ---
+supabase
+
+# --- Data Processing ---
+pandas
+
+# --- Scraping ---
+requests
+beautifulsoup4
+
+# --- Document Generation ---
+docxtpl
+python-docx
