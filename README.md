@@ -19,7 +19,7 @@ This platform automates that workflow:
 5. The user reviews and edits the merged result in a clean, categorized interface before anything is finalized — a human always has the final say.
 6. A professional `.docx` document is generated from a language-specific template and made available for download.
 
-**Real-world impact**: in production, this reduced the manual workflow from roughly 40-50 minutes down to about 15 minutes per vehicle. The tool is validated daily by real automotive homologation technicians, currently supporting ~3 users processing an estimated ~125 vehicles/month.
+**Real-world impact**: in production, this reduced the manual workflow from roughly 40-50 minutes down to about 15 minutes per vehicle. During its validation period it was used daily by real automotive homologation technicians — ~3 users processing an estimated ~125 vehicles/month. It was not continued commercially after that period.
 
 ### Key capabilities
 
